@@ -1,0 +1,6 @@
+      .body{width:600px;margin:100px auto;text-align:center;}
+        #main{height:300px;border:1px solid #f00;position:relative;}
+        #main div{width:20px;height:20px;background-color:green;position:absolute;}
+        #main div.snake{background-color:#ff0;}
+        .score{font-size:14px;}
+        .score strong{color:Red;}
