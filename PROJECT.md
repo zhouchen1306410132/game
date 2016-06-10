@@ -1,1 +1,3 @@
-2、	组长点击new file 添加PROJECT.md，撰写项目计划，如项目需要完成什么目标，具体的功能点，项目分工（如组长张三负责项目计划、文档撰写、项目管理、需求分析与设计，李四负责html和css代码编写，王五负责javascript编写）等等
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;撰写项目计划：实现一个贪吃蛇游戏和电脑式乒乓球游戏
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如项目目标，具体的功能点，通过实现2个小游戏来实现加深对javascript编程的了解和认识。使自己和组员通过游戏的方式更加喜欢javascript编程。来使学习更加有趣。
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目分工：组长周晨完成贪吃蛇的js代码编写和index.html文件的编写。谌起帆完成对贪吃蛇的CSS代码和对电脑式乒乓球游戏的CSS样式的编写。于亮完成电脑式乒乓球游戏的其他部分编写。
