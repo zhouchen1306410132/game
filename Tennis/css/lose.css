@@ -1,0 +1,28 @@
+#bg
+{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../blue_land.jpg);
+	width: 800px;
+	height: 600px;
+}
+#bt1
+{
+	position: absolute;
+	left:50%;
+	top:200px;
+	background-color: #fffaaa;
+	font-size: 20px;
+	border-right-width: 5px;
+	border-radius: 5px;
+}
+#bt3
+{
+	position: absolute;
+	left:50%;
+	top:250px;
+	font-size: 20px;
+	background-color: #fffaaa;
+	border-right-width: 5px;
+	border-radius: 5px;
+}

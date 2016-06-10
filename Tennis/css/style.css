@@ -1,0 +1,53 @@
+#ping
+{
+	background-color: blue;
+	height: 655px;
+}
+#rbg
+{	
+	background-color: red;
+	width:53%;
+	height: 655px;
+}
+#bg
+{
+	position: absolute;
+	top: 0px;
+	left: 51%;
+	background-color: white;
+	width: 5px;
+	height: 100%;
+}
+#ball 
+{
+	position: absolute;
+ 	width: 50px;
+ 	height: 50px;
+ 	top: 50%;
+	left: 50%;
+ 	border-radius: 25px;
+ 	background-color: yellow;
+ 	background-position: 128px 128px;
+}
+#palyer1
+{
+	position: absolute;
+	top: 50%;
+	left: 5%;
+	background-color: black;
+
+	width: 30px;
+	height: 120px;
+	border-radius: 10px;
+}
+#palyer2
+{
+	position: absolute;
+	top: 50%;
+	left: 94%;
+	background-color: white;
+
+	width: 30px;
+	height: 120px;
+	border-radius: 10px;
+}
